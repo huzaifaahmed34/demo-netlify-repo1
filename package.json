@@ -1,0 +1,11 @@
+{
+  "name": "netlify-deploy",
+  "version": "1.0.0",
+  "description": "Static site for Netlify",
+  "scripts": {
+    "build": "echo 'No build needed'"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
